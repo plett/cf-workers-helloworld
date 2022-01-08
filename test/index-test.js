@@ -20,6 +20,6 @@ describe('worker unit test', function () {
     const response = await worker.dispatch(request);
     const body = await response.text();
     expect(response.status).to.eql(200);
-    expect(body).to.eql('Hello Worker!');
+    expect(body).to.eql('Hello worker!');
   });
 });
