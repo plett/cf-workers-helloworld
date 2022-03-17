@@ -14,6 +14,6 @@
     "@dollarshaveclub/cloudworker": "^0.1.2",
     "chai": "^4.3.6",
     "mocha": "^9.2.2",
-    "prettier": "^2.5.1"
+    "prettier": "^2.6.0"
   }
 }
