@@ -13,7 +13,7 @@
   "devDependencies": {
     "@dollarshaveclub/cloudworker": "^0.1.2",
     "chai": "^4.3.7",
-    "mocha": "^10.1.0",
+    "mocha": "^10.2.0",
     "prettier": "^2.8.1"
   }
 }
