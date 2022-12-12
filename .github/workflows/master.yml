@@ -1,9 +1,11 @@
-name: Test+Deploy
+name: master-deploy
 
 on:
   push:
     branches:
       - master
+
+concurrency: master-deploy
 
 jobs:
 
